@@ -12,6 +12,7 @@
 - Пшеничный солод [Soufflet gшеничный / Malt De Ble, 2-5 EBC](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/soufflet/solod_pshenichniy_malt_de_ble_2_5_ebc_soufflet_1_kg/) - 1.12 кг.
 - Хмель для горечи [Beervingem "Magnum" (Германия)](https://www.mirbeer.ru/catalog/pivovarenie/hmel/hmel_50_100_g/hmel_beervingem_magnum_germaniya_50_g/) - 22 гр.
 - Хмель для аромата [Beervingem "Mandarina Bavaria" (Германия)](https://www.mirbeer.ru/catalog/pivovarenie/hmel/hmel_50_100_g/hmel_mandarina_bavaria_germaniya_50_g/) - 7 гр.
+- Осветлитель [Whirlfloc](https://www.mirbeer.ru/catalog/pivovarenie/ingredienti/osvetliteli_piva/osvetlitel_whirlfloc_10_tabletok/) - 0.7 таб.
 - Вода для затирания (фильтровал через фильтр аквафор) - 19 л.
 - Промывочная вода (фильтровал через фильтр аквафор) -7 л.
 <h4 align="center"> 07.12.2020 </h4>
