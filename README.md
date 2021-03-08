@@ -6,7 +6,7 @@
 
 <h4 align="center"> 07.03.2021 </h4>
 
-##### Варил сам по рецепту Вайценбир от Папазяна. Варил из расчёта на 17 литров сусла (ингредиенты по рецепту -20%, хмеля добавил по рецепту). 
+##### Варил сам, по рецепту Вайценбир от Папазяна. Варил из расчёта на 17 литров сусла (ингредиенты по рецепту -20%, хмеля добавил по рецепту). 
 ##### Ингредиенты:
 - Ячменный солод [Soufflet Премиум пилзнер / Premium pilsner](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/soufflet/solod_premium_pilzner_premium_pilsner_soufflet_1_kg/) - 2.56 кг.
 - Пшеничный солод [Soufflet gшеничный / Malt De Ble, 2-5 EBC](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/soufflet/solod_pshenichniy_malt_de_ble_2_5_ebc_soufflet_1_kg/) - 1.12 кг.
