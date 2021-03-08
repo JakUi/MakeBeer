@@ -8,11 +8,12 @@
 
 ###### Варил сам по рецепту Вайценбир от Папазяна. Варил из расчёта на 17 литров сусла (ингредиенты по рецепту -20% хмеля добавил по рецепту). 
 ###### Ингредиенты:
-- [Ячменный солод Soufflet Премиум пилзнер / Premium pilsner](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/soufflet/solod_premium_pilzner_premium_pilsner_soufflet_1_kg/)  2.56 кг.
-- Пшеничный солод 1.12 кг.
-- Вода для затирания 19 литров 
-- Промывочная вода 7 литров
-- Хмель для горечи
+- Ячменный солод [Soufflet Премиум пилзнер / Premium pilsner](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/soufflet/solod_premium_pilzner_premium_pilsner_soufflet_1_kg/)  2.56 кг.
+- Пшеничный солод [Soufflet gшеничный / Malt De Ble, 2-5 EBC](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/soufflet/solod_pshenichniy_malt_de_ble_2_5_ebc_soufflet_1_kg/) 1.12 кг.
+- Вода для затирания 19 литров (фильтровал через фильтр аквафор)
+- Промывочная вода 7 литров (фильтровал через фильтр аквафор)
+- Хмель для горечи [Beervingem "Magnum" (Германия)](https://www.mirbeer.ru/catalog/pivovarenie/hmel/hmel_50_100_g/hmel_beervingem_magnum_germaniya_50_g/) 22 гр.
+- Хмель для аромата [Beervingem "Mandarina Bavaria" (Германия)](https://www.mirbeer.ru/catalog/pivovarenie/hmel/hmel_50_100_g/hmel_mandarina_bavaria_germaniya_50_g/) - 7 гр.
 <h4 align="center"> 07.12.2020 </h4>
 
 ###### Гидрозатвор не булькает, но сусло бродит (есть пена на стенках бака). Оказалось, что я забыл надеть уплотнительное кольцо на бак. Температура брожения с 05.12 по 07.12 колебалась в пределах от +20.5 до +21.7 градусов (в первую ночь росла до +22.7 градусов). Померял плотность сусла - плотность 7.0 ед. 
