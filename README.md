@@ -13,10 +13,12 @@
 - Хмель для горечи [Beervingem "Magnum" (Германия)](https://www.mirbeer.ru/catalog/pivovarenie/hmel/hmel_50_100_g/hmel_beervingem_magnum_germaniya_50_g/) - 22 гр.
 - Хмель для аромата [Beervingem "Mandarina Bavaria" (Германия)](https://www.mirbeer.ru/catalog/pivovarenie/hmel/hmel_50_100_g/hmel_mandarina_bavaria_germaniya_50_g/) - 7 гр.
 - Осветлитель [Whirlfloc](https://www.mirbeer.ru/catalog/pivovarenie/ingredienti/osvetliteli_piva/osvetlitel_whirlfloc_10_tabletok/) - 0.7 таб.
+- [Рисовая лузга](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/luzga_risovaya_0_4_kg/) -80 гр.
 - Вода для затирания (фильтровал через фильтр аквафор) - 19 л.
 - Промывочная вода (фильтровал через фильтр аквафор) -7 л.
-<h4 align="center"> 07.12.2020 </h4>
-
+<h4 align="center"> Варка </h4>
+    Решил делать всё по рецепту, но с учётом, что сусла нужно на 20% меньше. 
+    Нагрел 9.5 литров воды до 62 градусов, поставил корзину в котёл, засыпал солод смешанный с рисовой лузгой. Оказалось, что воды не достаточно (даже половина зерна в корзине не была покрыта водой) - достал корзину, 
 ###### Гидрозатвор не булькает, но сусло бродит (есть пена на стенках бака). Оказалось, что я забыл надеть уплотнительное кольцо на бак. Температура брожения с 05.12 по 07.12 колебалась в пределах от +20.5 до +21.7 градусов (в первую ночь росла до +22.7 градусов). Померял плотность сусла - плотность 7.0 ед. 
 
 <h4 align="center"> 19.12.2020 </h4>
