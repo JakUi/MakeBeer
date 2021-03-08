@@ -10,12 +10,14 @@
 ##### Ингредиенты:
 - Ячменный солод [Soufflet Премиум пилзнер / Premium pilsner](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/soufflet/solod_premium_pilzner_premium_pilsner_soufflet_1_kg/) - 2.56 кг.
 - Пшеничный солод [Soufflet gшеничный / Malt De Ble, 2-5 EBC](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/soufflet/solod_pshenichniy_malt_de_ble_2_5_ebc_soufflet_1_kg/) - 1.12 кг.
+- [Рисовая лузга](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/luzga_risovaya_0_4_kg/) -80 гр.
 - Хмель для горечи [Beervingem "Magnum" (Германия)](https://www.mirbeer.ru/catalog/pivovarenie/hmel/hmel_50_100_g/hmel_beervingem_magnum_germaniya_50_g/) - 22 гр.
 - Хмель для аромата [Beervingem "Mandarina Bavaria" (Германия)](https://www.mirbeer.ru/catalog/pivovarenie/hmel/hmel_50_100_g/hmel_mandarina_bavaria_germaniya_50_g/) - 7 гр.
+- Дрожжи [пивные дрожжи Mangrove Jack's "Bavarian Wheat M20"](https://www.mirbeer.ru/catalog/pivovarenie/drozhzhi/mangrove_jacks/mangrove_jacks_10_g/drozhzhi_mangrove_jack_s_bavarian_wheat_m20_10_g/) - 10 гр.
 - Осветлитель [Whirlfloc](https://www.mirbeer.ru/catalog/pivovarenie/ingredienti/osvetliteli_piva/osvetlitel_whirlfloc_10_tabletok/) - 0.7 таб.
-- [Рисовая лузга](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/luzga_risovaya_0_4_kg/) -80 гр.
 - Вода для затирания (фильтровал через фильтр аквафор) - 19 л.
 - Промывочная вода (фильтровал через фильтр аквафор) -7 л.
+
 <h4 align="center"> Варка </h4>  
 
 Решил делать всё по рецепту, но с учётом того, что сусла нужно на 20% меньше. 
@@ -39,13 +41,19 @@
 - Через 52 минуты с начала кипения добавил в сусло осветлитель
 - За 2 минуты до конца кипячения добавил 2 грамма хмеля для аромата (кинул прямо в сусло т.к. оба мешка для хмеля были заняты)
 - Через 60 минут кипячения охладил сусло до 21 градуса (заняло около 25 минут)
+
+<h4 align="center"> Регидрация дрожжей </h4>
+
 <h4 align="center"> Розлив на брожение </h4>
-- Через друшлаг перелил сусло в Beerzawodik (друшлаг и BZ предварительно дезинфицировал део-хлором)
+
+- Через друшлаг перелил сусло в Beerzawodik (друшлаг ёмкости для брожения, шланг и всё остальное предварительно дезинфицировал део-хлором)
 - Около минуты мешал сусло лопаткой (чтобы насытить сусло кислородом)
 - Через кран и силиконовый шланг перелил сусло в бак 19 литров, получил около 15 литров сусла
 - Через лейку (из пластиковой баклажки) влил регидрированные дрожжи
 - Получил 15 литров сусла t 16.5 градусов
 - Вставил гидрозатвор наполненный ромом
+
+
 
 ###### Гидрозатвор не булькает, но сусло бродит (есть пена на стенках бака). Оказалось, что я забыл надеть уплотнительное кольцо на бак. Температура брожения с 05.12 по 07.12 колебалась в пределах от +20.5 до +21.7 градусов (в первую ночь росла до +22.7 градусов). Померял плотность сусла - плотность 7.0 ед. 
 
