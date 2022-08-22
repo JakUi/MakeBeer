@@ -5,7 +5,7 @@
 
 <h3 align="center"> Начальная плотность 11.5%, конечная плотность 2.73%, алкоголя 4.68%  </h3>
 
-<h4 align="center"> 07.08.33 </h4>
+<h4 align="center"> 07.08.22 </h4>
 
 ##### Варил сам, по рецепту [BrunchMaster 2000 - Belgian Wit - Gold Medal 2018 NHC](https://www.homebrewtalk.com/threads/brunchmaster-2000-belgian-wit-gold-medal-2018-nhc.655068/).
 ##### Ингредиенты:
