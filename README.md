@@ -11,7 +11,7 @@
 ##### Ингредиенты:
 - Ячменный солод [Солод Пилсен / Pilsen, 3-4 EBC (Soufflet)](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/soufflet/solod_pilsen_pilsen_3_4_ebc_soufflet_1_kg/) - 2.0 кг.
 - Пшеничный солод [Солод Шато Вит Блан (Пшеничный) (Castle Malting)](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/castle_malting/solod_shato_vit_blan_pshenichniy_castle_malting_1_kg/) - 3.0 кг.
-- [Рисовая лузга](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/luzga_risovaya_0_4_kg/) - 4000 гр.
+- [Рисовая лузга](https://www.mirbeer.ru/catalog/pivovarenie/solod/solod_0_5_1_kg/luzga_risovaya_0_4_kg/) - 400 гр.
 - Хмель [Хмель Beervingem "Amarillo"](https://www.mirbeer.ru/catalog/pivovarenie/hmel/hmel_50_100_g/hmel_amarillo_ssha_50_g/) - 50 гр.
 - Дрожжи [Пивные дрожжи Mangrove Jack's "Kveik M12"](https://www.mirbeer.ru/catalog/pivovarenie/drozhzhi/mangrove_jacks/mangrove_jacks_10_g/pivnie_drozhzhi_mangrove_jack_s_kveik_m12_10_g/) - 20 гр. (2 упаковки).
 - Осветлитель [Whirlfloc](https://www.mirbeer.ru/catalog/pivovarenie/ingredienti/osvetliteli_piva/osvetlitel_whirlfloc_10_tabletok/) - 1.0 таб.
